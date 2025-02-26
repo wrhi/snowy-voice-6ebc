@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "snowy-voice-6ebc",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "ad142331-3845-4965-b56b-78279c477943",
+      "database_name": "odd-block-c789-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
